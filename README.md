@@ -35,6 +35,7 @@ npm install
 npm start
 ```
 
+
 ## API Endpoint Documentation
 #### Admin Endpoints
 * **Admin SignUp: POST /api/admin/signup**
@@ -71,6 +72,7 @@ npm start
 * **Student Enroll to Courses: POST /student/enroll**
 * **Student View Timetable: GET /student/timetable**
 * **Student View Profile: GET /student/profile**
+
 
 ## Running Tests
 #### To run the tests, execute the following command:
