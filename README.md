@@ -33,7 +33,6 @@ npm install
 #### 4. Start the Server:
 ```
 npm start
-
 ```
 
 ## API Endpoint Documentation
